@@ -1,0 +1,1 @@
+# Python-program-to-dispaly-the-given-integer-in-reverse-manner
